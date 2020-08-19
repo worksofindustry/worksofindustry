@@ -1,4 +1,4 @@
-### Hi there, I'm Matthew - aka worksofindustry
+### Hi there, I'm Matthew
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on Machine Vision and video processing!
