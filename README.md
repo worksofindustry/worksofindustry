@@ -3,7 +3,7 @@
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on Machine Vision and video processing!
 - 🌱 I’m currently learning to automate workflows in the cloud
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do triathlon and garden
 
 ### Connect with me:
